@@ -39,3 +39,4 @@ while clue_report != "CODE CRACKED":
     clue_report = generate_clues(secret_code,guess)
     for clue in clue_report:
         print(clue)
+        
